@@ -17,8 +17,7 @@
   --primary-color: #190952;
   --secondary-color: #f8f9fa;
   --text-color: #190952;
-  --link-color: #4a90e2;
-  --link-hover-color: #1a3d73;
+  --link-color: #190952;
   --border-color: #190952;
   --background-color: #fff;
   --code-background: #fff;
@@ -53,9 +52,8 @@
     --primary-color: #ffffff;
     --secondary-color: #cccccc;
     --text-color: #ffffff;
-    --link-color: #4a90e2;
-    --link-hover-color: #6bb6ff;
-    --border-color: #fffffff;
+    --link-color: #ffffff;
+    --border-color: #ffffff;
     --background-color: #190952;
     --code-background: #190952;
 
@@ -124,11 +122,6 @@ p {
 
 a {
   color: var(--link-color);
-  text-decoration: none;
-}
-
-a:hover {
-  color: var(--link-hover-color);
   text-decoration: underline;
 }
 
