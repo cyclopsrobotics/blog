@@ -3,5 +3,5 @@ tagline: A day in the lives of a high-school robotics team.
 url: https://cyclopsrobotics.github.io/blog
 menu:
   - ["Main Site", "https://cyclopsrobotics.github.io/"]
-  - ["Pages", "pages.html"]
   - ["Tags", "tags.html"]
+theme: cyclops
