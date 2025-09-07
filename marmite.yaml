@@ -5,3 +5,5 @@ menu:
   - ["Main Site", "https://cyclopsrobotics.github.io/"]
   - ["Tags", "tags.html"]
 theme: cyclops
+publish_md: true
+source_repository: https://github.com/cyclopsrobotics/blog/tree/main/content
