@@ -1,10 +1,11 @@
 # Writing a new blog entry
 
 1.  If you have any photos to add to the site, upload them to [`content/media/`](https://github.com/cyclopsrobotics/blog/tree/main/content/media/).
-2.  Create a markdown (`.md`) file in [`content/`](https://github.com/cyclopsrobotics/blog/tree/main/content/) with a short all-lowercase title:
+    If that folder doesn't exist, just create it.
+3.  Create a markdown (`.md`) file in [`content/`](https://github.com/cyclopsrobotics/blog/tree/main/content/) with a short all-lowercase title:
 
     *Some title* :arrow_right: `some-title.md`
-3.  Every file should start like this:
+4.  Every file should start like this:
 
     ```
     ---
@@ -14,11 +15,11 @@
     ```
 
     where you substitute `YYYY-MM-DD` and `tag1,tag2` for something else.
-4.  Just write!
+5.  Just write!
     Do check out the [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/) for extra syntax.
-5.  If you want to check out what the file will look like before publishing, click on `Preview` on the top left corner of the editor.
-6.  When you're done, press `Commit changes...` in the right hand corner to publish it.
-7.  It will take about 3 minutes for your changes to go live.
+6.  If you want to check out what the file will look like before publishing, click on `Preview` on the top left corner of the editor.
+7.  When you're done, press `Commit changes...` in the right hand corner to publish it.
+8.  It will take about 3 minutes for your changes to go live.
 
 ## An example blog entry
 ```
