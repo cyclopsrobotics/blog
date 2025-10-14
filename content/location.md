@@ -4,4 +4,4 @@ tags: misc
 ---
 
 # location.png
-![51.347111, -0.194026 SUTTON](location.png)
+![51.347111, -0.194026 SUTTON](<./location.png>)
